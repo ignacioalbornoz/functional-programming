@@ -1,3 +1,3 @@
-# functional-programming-haskell
+# functional-programming
 
 play language
